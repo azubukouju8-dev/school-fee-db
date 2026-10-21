@@ -17,7 +17,7 @@ A PostgreSQL database for managing students, fee types, invoices, discounts, pay
 - `schema.sql`: creates the tables and the view
 - `seed.sql`: sample data (5 students, 5 invoices, 5 payments, 2 discounts)
 - `queries.sql`: the 8 SQL queries
-- `results/`: the saved output of each query as CSV
+- q1 to q8 CSV files: the saved output of each query
 - `erd.md`: the entity relationship diagram
 - `data_quality_note.md`: how data quality affects AI systems
 
